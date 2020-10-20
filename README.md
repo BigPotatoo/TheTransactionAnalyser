@@ -1,5 +1,5 @@
-#The Transaction Analyser
-#####Let's start by installing the project
+# The Transaction Analyser
+##### Let's start by installing the project
 
 
 1. Clone the project from [github](https://github.com/BigPotatoo/TheTransactionAnalyser.git).
@@ -8,7 +8,7 @@
 4. Change the content `String path` to your file `CSV`. How should it look CSV file [example.csv](./src/main/resources/example.csv).<br/>
 5. Launch class `Runner.java`
 ---
-#####Input
+##### Input
 Given the above CSV file and the following input arguments
 ```
 fromDate: 20/08/2018 12:00:00
