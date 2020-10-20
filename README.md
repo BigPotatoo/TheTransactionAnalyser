@@ -20,3 +20,5 @@ The output will be:
 Number of transactions = 1
 Average Transaction Value = 59.99
 ```
+##### Technologies used
+lombok, opencsv, junit.
