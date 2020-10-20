@@ -21,4 +21,4 @@ Number of transactions = 1
 Average Transaction Value = 59.99
 ```
 #### Technologies
-lombok, opencsv, junit.
+java 11, lombok, opencsv, junit.
